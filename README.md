@@ -3,7 +3,7 @@
 ## Git Set up (for Windows)
 
 1. Install [latest Node LTS](https://nodejs.org/en/) on dev computer (if haven't).
-2. Download this template or `git clone https://github.com/c-xyz/Electron-with-React-Template`
+2. Download this template or git clon this repository
 3. `cd Electron-with-React-Template`
 4. `npm install`
 5. `npm start` for dev environment and `npm run dist` for production environment.
